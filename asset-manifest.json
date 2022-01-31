@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5a9272cb.js",
-    "static/js/787.12ca066b.chunk.js": "/static/js/787.12ca066b.chunk.js",
+    "main.css": "/static/css/main.d1c94bfc.css",
+    "main.js": "/static/js/main.002198e7.js",
+    "static/js/787.47f2dd17.chunk.js": "/static/js/787.47f2dd17.chunk.js",
+    "static/media/questLogo.png": "/static/media/questLogo.aafc8b07de7321df8682.png",
+    "static/media/circle.svg": "/static/media/circle.70ecd9adf5c5bae055ec4af005703b78.svg",
+    "static/media/numberCircle.svg": "/static/media/numberCircle.f41b6a40e6c01f020ccd31f2bd334aa4.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5a9272cb.js.map": "/static/js/main.5a9272cb.js.map",
-    "787.12ca066b.chunk.js.map": "/static/js/787.12ca066b.chunk.js.map"
+    "main.d1c94bfc.css.map": "/static/css/main.d1c94bfc.css.map",
+    "main.002198e7.js.map": "/static/js/main.002198e7.js.map",
+    "787.47f2dd17.chunk.js.map": "/static/js/787.47f2dd17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5a9272cb.js"
+    "static/css/main.d1c94bfc.css",
+    "static/js/main.002198e7.js"
   ]
 }
