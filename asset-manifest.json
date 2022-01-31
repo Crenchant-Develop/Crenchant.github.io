@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quest-Develop/ddaeryeochyeo/static/css/main.073c9b0a.css",
+    "main.js": "/Quest-Develop/ddaeryeochyeo/static/js/main.eb2711cd.js",
+    "static/js/787.12ca066b.chunk.js": "/Quest-Develop/ddaeryeochyeo/static/js/787.12ca066b.chunk.js",
+    "index.html": "/Quest-Develop/ddaeryeochyeo/index.html",
+    "main.073c9b0a.css.map": "/Quest-Develop/ddaeryeochyeo/static/css/main.073c9b0a.css.map",
+    "main.eb2711cd.js.map": "/Quest-Develop/ddaeryeochyeo/static/js/main.eb2711cd.js.map",
+    "787.12ca066b.chunk.js.map": "/Quest-Develop/ddaeryeochyeo/static/js/787.12ca066b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eb2711cd.js"
+  ]
+}
