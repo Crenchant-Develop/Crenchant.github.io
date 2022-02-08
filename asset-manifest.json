@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ae0b50f.css",
-    "main.js": "/static/js/main.d3b37cf2.js",
+    "main.css": "/static/css/main.b4054367.css",
+    "main.js": "/static/js/main.a7c38013.js",
     "static/media/stage4Ref2.png": "/static/media/stage4Ref2.282b46b48522996d9330.png",
     "static/media/stage8Ref2.png": "/static/media/stage8Ref2.52f7900bb0494c2db267.png",
     "static/media/stageXRef2.png": "/static/media/stageXRef2.39150a9ae7b20f924346.png",
@@ -49,7 +49,6 @@
     "static/media/gimmick4.png": "/static/media/gimmick4.419ab719302317afa3fc.png",
     "static/media/07.png": "/static/media/07.74f7bbb75cfe687d7a1e.png",
     "static/media/05.png": "/static/media/05.b5d87967110eac9e9752.png",
-    "static/media/questLogo.png": "/static/media/questLogo.aafc8b07de7321df8682.png",
     "static/media/exchange.png": "/static/media/exchange.4c9d15cba782aa6d68ef.png",
     "static/media/pureOrb.png": "/static/media/pureOrb.4f548b77fa417e4ac739.png",
     "static/media/darkOrb.png": "/static/media/darkOrb.7a19a3c507ee4480bd39.png",
@@ -66,11 +65,11 @@
     "static/media/home.svg": "/static/media/home.2ae15f1ed2de9354cc360ba6bc21bd6d.svg",
     "static/media/numberCircle.svg": "/static/media/numberCircle.f41b6a40e6c01f020ccd31f2bd334aa4.svg",
     "index.html": "/index.html",
-    "main.1ae0b50f.css.map": "/static/css/main.1ae0b50f.css.map",
-    "main.d3b37cf2.js.map": "/static/js/main.d3b37cf2.js.map"
+    "main.b4054367.css.map": "/static/css/main.b4054367.css.map",
+    "main.a7c38013.js.map": "/static/js/main.a7c38013.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ae0b50f.css",
-    "static/js/main.d3b37cf2.js"
+    "static/css/main.b4054367.css",
+    "static/js/main.a7c38013.js"
   ]
 }
